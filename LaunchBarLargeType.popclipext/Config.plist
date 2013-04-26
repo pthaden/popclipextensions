@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Credits</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Paul Thaden</string>
+		</dict>
+	</array>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>AppleScript File</key>
+			<string>LaunchBarLargeType.applescript</string>
+			<key>Image File</key>
+			<string>LaunchBarLargeType.png</string>
+			<key>Long Running</key>
+			<true/>
+			<key>Title</key>
+			<string>LaunchBar Large Text</string>
+		</dict>
+	</array>
+	<key>Apps</key>
+	<array>
+		<dict>
+			<key>Bundle Identifier</key>
+			<string>at.obdev.LaunchBar</string>
+			<key>Check Installed</key>
+			<true/>
+			<key>Link</key>
+			<string>http://obdev.at/launchbar/</string>
+			<key>Name</key>
+			<string>LaunchBar</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>Display the text in LaunchBar&apos;s Large Text.</string>
+	<key>Extension Identifier</key>
+	<string>com.paulthaden.popclip.extension.launchbarlargetype</string>
+	<key>Extension Name</key>
+	<string>LaunchBarLargeType</string>
+	<key>Required Software Version</key>
+	<integer>693</integer>
+</dict>
+</plist>
